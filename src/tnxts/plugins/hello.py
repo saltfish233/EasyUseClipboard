@@ -1,4 +1,4 @@
-from src.tnxts.listener.clipboard_listener import clipboard_listener
+from src.tnxts.listener import _clipboard_listener
 from src.tnxts.plugin import PluginMetadata
 
 _metadata = PluginMetadata(
@@ -11,4 +11,4 @@ _metadata = PluginMetadata(
 def print_hello():
     print("hello, world")
 
-clipboard_listener.on_copy(print_hello)
+_clipboard_listener.on_copy(print_hello)

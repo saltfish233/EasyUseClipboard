@@ -16,8 +16,6 @@ class ClipboardListener:
     def on_copy(self, func):
         """复制事件"""
         _clipboard.clipboard.dataChanged.connect(lambda : self.decorator(func))
-        # _clipboard.clipboard.dataChanged.connect(func)
-        # global_signal.copy.connect(func)
 
     def on_paste(self,func):
         """粘贴事件"""
@@ -37,4 +35,4 @@ class ClipboardListener:
 
 
 
-clipboard_listener = ClipboardListener()
+_clipboard_listener = ClipboardListener()

@@ -1,0 +1,16 @@
+create database clipboard_db charset utf8mb4;
+
+create table tb_clipboard_item (
+    id BIGINT auto_increment primary key comment '唯一标识符',
+    data LONGtext not null comment '数据',
+    title varchar(1000) comment '标题',
+    type varchar(50) comment '类型',
+    process varchar(100) comment '来自哪个进程',
+    create_time timestamp not null comment '创建时间',
+    last_use_time timestamp comment '最后一次使用时间',
+    last_edit_time timestamp comment '最后一次编辑时间',
+    collect_time timestamp comment '收藏时间',
+    use_count int not null default 0 comment '使用次数',
+    priority int not null default 0 comment '优先级(默认为最低优先级0)',
+    is_visible boolean not null default 1 comment '是否可见'
+)
