@@ -1,0 +1,139 @@
+2023-06-06 09:29:29 | None | ERROR    | manager.py:load_plugin:153 - 载入插件src.tnxts.test.test_plugin.a失败 unsupported operand type(s) for |: 'NoneType' and 'str'
+2023-06-06 09:31:18 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 09:31:18 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 09:31:54 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 09:31:54 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 09:33:30 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 09:33:30 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 09:39:23 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 09:39:23 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 19:27:29 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 19:27:29 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 19:29:42 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.c加载成功
+2023-06-06 19:29:42 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-06 19:29:42 | None | SUCCESS    | manager.py:load_plugin:150 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 19:43:41 | None | SUCCESS    | manager.py:load_plugin:154 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 19:44:51 | None | ERROR    | manager.py:load_plugin:159 - 载入插件src.tnxts.test.test_plugin.a失败 'PluginManager' object has no attribute 'logger'
+2023-06-06 19:45:20 | None | ERROR    | manager.py:load_plugin:159 - 载入插件src.tnxts.test.test_plugin.a失败 'PluginManager' object has no attribute 'logger'
+2023-06-06 19:46:15 | None | ERROR    | manager.py:load_plugin:159 - 载入插件src.tnxts.test.test_plugin.a失败 'PluginManager' object has no attribute 'logger'
+2023-06-06 19:46:47 | None | SUCCESS    | manager.py:load_plugin:156 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-06 21:28:37 | None | ERROR    | manager.py:load_plugin:167 - 载入插件src.tnxts.test.test_plugin.example.a失败 没有找到插件: src.tnxts.test.test_plugin.example.a, 请检查你的插件名!
+2023-06-06 21:28:37 | None | ERROR    | manager.py:load_plugin:167 - 载入插件src.tnxts.test.test_plugin.example.b失败 没有找到插件: src.tnxts.test.test_plugin.example.b, 请检查你的插件名!
+2023-06-06 21:28:37 | None | ERROR    | manager.py:load_plugin:167 - 载入插件src.tnxts.test.test_plugin.example.c失败 没有找到插件: src.tnxts.test.test_plugin.example.c, 请检查你的插件名!
+2023-06-06 21:30:06 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.a失败 没有找到插件: src.tnxts.test.test_plugin.example.a, 请检查你的插件名!
+2023-06-06 21:30:06 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.b失败 没有找到插件: src.tnxts.test.test_plugin.example.b, 请检查你的插件名!
+2023-06-06 21:30:06 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.c失败 没有找到插件: src.tnxts.test.test_plugin.example.c, 请检查你的插件名!
+2023-06-06 21:30:41 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.a失败 没有找到插件: src.tnxts.test.test_plugin.example.a, 请检查你的插件名!
+2023-06-06 21:30:41 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.b失败 没有找到插件: src.tnxts.test.test_plugin.example.b, 请检查你的插件名!
+2023-06-06 21:30:41 | None | ERROR    | manager.py:load_plugin:166 - 载入插件src.tnxts.test.test_plugin.example.c失败 没有找到插件: src.tnxts.test.test_plugin.example.c, 请检查你的插件名!
+2023-06-06 21:32:08 | None | ERROR    | manager.py:load_plugin:165 - 载入插件a失败 No module named 'py'
+2023-06-06 21:32:08 | None | ERROR    | manager.py:load_plugin:165 - 载入插件b失败 No module named 'py'
+2023-06-06 21:32:08 | None | ERROR    | manager.py:load_plugin:165 - 载入插件c失败 No module named 'py'
+2023-06-06 21:32:36 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'py'
+2023-06-06 21:32:36 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'py'
+2023-06-06 21:32:36 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'py'
+2023-06-06 21:33:13 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'py'
+2023-06-06 21:33:13 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'py'
+2023-06-06 21:33:13 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'py'
+2023-06-06 21:33:31 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'a'
+2023-06-06 21:33:31 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'b'
+2023-06-06 21:33:31 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'c'
+2023-06-06 21:33:52 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'a'
+2023-06-06 21:33:52 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'b'
+2023-06-06 21:33:52 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'c'
+2023-06-06 21:34:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'a'
+2023-06-06 21:34:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'b'
+2023-06-06 21:34:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'c'
+2023-06-06 21:34:30 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'a'
+2023-06-06 21:34:30 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'b'
+2023-06-06 21:34:30 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'c'
+2023-06-06 21:38:39 | None | ERROR    | manager.py:load_plugin:165 - 载入插件a失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\a'
+2023-06-06 21:38:39 | None | ERROR    | manager.py:load_plugin:165 - 载入插件b失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\b'
+2023-06-06 21:38:39 | None | ERROR    | manager.py:load_plugin:165 - 载入插件c失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\c'
+2023-06-06 21:47:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\a'
+2023-06-06 21:47:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\b'
+2023-06-06 21:47:05 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 No module named 'F:\\projects\\pythonProjects\\clipboard1\\src\\tnxts\\test\\test_plugin\\example\\c'
+2023-06-06 21:49:23 | None | ERROR    | manager.py:load_plugin:166 - 载入插件a失败 'WindowsPath' object has no attribute 'startswith'
+2023-06-06 21:49:23 | None | ERROR    | manager.py:load_plugin:166 - 载入插件b失败 'WindowsPath' object has no attribute 'startswith'
+2023-06-06 21:49:23 | None | ERROR    | manager.py:load_plugin:166 - 载入插件c失败 'WindowsPath' object has no attribute 'startswith'
+2023-06-06 21:51:15 | None | SUCCESS    | manager.py:load_plugin:165 - 插件a加载成功
+2023-06-06 21:51:15 | None | ERROR    | manager.py:load_plugin:168 - 载入插件b失败 Empty module name
+2023-06-06 21:51:15 | None | SUCCESS    | manager.py:load_plugin:165 - 插件c加载成功
+2023-06-06 21:51:47 | None | SUCCESS    | manager.py:load_plugin:165 - 插件a加载成功
+2023-06-06 21:51:47 | None | SUCCESS    | manager.py:load_plugin:165 - 插件b加载成功
+2023-06-06 21:51:47 | None | SUCCESS    | manager.py:load_plugin:165 - 插件c加载成功
+2023-06-06 21:52:58 | None | ERROR    | manager.py:load_plugin:168 - 载入插件a失败 Empty module name
+2023-06-06 21:52:58 | None | SUCCESS    | manager.py:load_plugin:165 - 插件b加载成功
+2023-06-06 21:52:58 | None | SUCCESS    | manager.py:load_plugin:165 - 插件c加载成功
+2023-06-06 21:52:58 | None | SUCCESS    | manager.py:load_plugin:165 - 插件exam1加载成功
+2023-06-06 21:53:34 | None | ERROR    | manager.py:load_plugin:168 - 载入插件a失败 Empty module name
+2023-06-06 21:53:34 | None | SUCCESS    | manager.py:load_plugin:165 - 插件b加载成功
+2023-06-06 21:53:34 | None | SUCCESS    | manager.py:load_plugin:165 - 插件c加载成功
+2023-06-06 21:53:34 | None | SUCCESS    | manager.py:load_plugin:165 - 插件exam1加载成功
+2023-06-06 21:55:40 | None | ERROR    | manager.py:load_plugin:170 - 载入插件a失败 Empty module name
+2023-06-06 21:55:40 | None | SUCCESS    | manager.py:load_plugin:167 - 插件b加载成功
+2023-06-06 21:55:40 | None | SUCCESS    | manager.py:load_plugin:167 - 插件c加载成功
+2023-06-06 22:03:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 22:03:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 22:03:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 22:03:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 22:55:49 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 22:55:49 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 22:55:49 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 22:55:49 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 22:59:51 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 22:59:51 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 22:59:51 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 22:59:51 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:01:31 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:01:31 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:01:31 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:01:31 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:02:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:02:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:02:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:02:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:08:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:08:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:08:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:08:05 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:14:30 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:14:30 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:14:30 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:14:30 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:22:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:22:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:22:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:22:33 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:23:06 | None | SUCCESS    | manager.py:load_plugin:169 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:23:06 | None | SUCCESS    | manager.py:load_plugin:169 - 插件a加载成功
+2023-06-06 23:23:06 | None | SUCCESS    | manager.py:load_plugin:169 - 插件b加载成功
+2023-06-06 23:23:06 | None | SUCCESS    | manager.py:load_plugin:169 - 插件c加载成功
+2023-06-06 23:28:26 | None | SUCCESS    | manager.py:load_plugin:169 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:28:26 | None | SUCCESS    | manager.py:load_plugin:169 - 插件a加载成功
+2023-06-06 23:28:26 | None | SUCCESS    | manager.py:load_plugin:169 - 插件b加载成功
+2023-06-06 23:28:26 | None | SUCCESS    | manager.py:load_plugin:169 - 插件c加载成功
+2023-06-06 23:31:06 | None | ERROR    | manager.py:load_plugin:172 - 载入插件src.tnxts.test.test_plugin.example.a失败 没有找到插件: src.tnxts.test.test_plugin.example.a, 请检查你的插件名!
+2023-06-06 23:31:06 | None | ERROR    | manager.py:load_plugin:172 - 载入插件src.tnxts.test.test_plugin.example.b失败 没有找到插件: src.tnxts.test.test_plugin.example.b, 请检查你的插件名!
+2023-06-06 23:31:08 | None | ERROR    | manager.py:load_plugin:172 - 载入插件src.tnxts.test.test_plugin.example.c失败 没有找到插件: src.tnxts.test.test_plugin.example.c, 请检查你的插件名!
+2023-06-06 23:37:53 | None | ERROR    | manager.py:load_plugin:171 - 载入插件a失败 'src.tnxts.test.test_plugin.example.a'
+2023-06-06 23:38:42 | None | ERROR    | manager.py:load_plugin:171 - 载入插件a失败 'src.tnxts.test.test_plugin.example.a'
+2023-06-06 23:41:04 | None | SUCCESS    | manager.py:load_plugin:168 - 插件p加载成功
+2023-06-06 23:41:04 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:41:26 | None | SUCCESS    | manager.py:load_plugin:168 - 插件p加载成功
+2023-06-06 23:41:26 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:41:26 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:41:26 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:42:45 | None | SUCCESS    | manager.py:load_plugin:168 - 插件p加载成功
+2023-06-06 23:42:45 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:42:45 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:42:45 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:43:02 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a.p加载成功
+2023-06-06 23:43:02 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:43:02 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:43:02 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
+2023-06-06 23:44:48 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a.p.q加载成功
+2023-06-06 23:44:48 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a.p加载成功
+2023-06-06 23:44:48 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-06 23:44:48 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-06 23:44:48 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功

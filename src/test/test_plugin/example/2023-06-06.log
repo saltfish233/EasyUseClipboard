@@ -1,0 +1,4 @@
+2023-06-06 22:02:50 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.b加载成功
+2023-06-06 22:03:26 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:01:46 | None | SUCCESS    | manager.py:load_plugin:168 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功
+2023-06-06 23:23:11 | None | SUCCESS    | manager.py:load_plugin:169 - 插件src.tnxts.test.test_plugin.example.exam1.p加载成功

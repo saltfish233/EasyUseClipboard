@@ -1,0 +1,51 @@
+2023-06-05 20:49:32 | None | ERROR    | manager.py:load_plugin:143 - 载入插件{name}失败
+2023-06-05 20:53:25 | None | ERROR    | manager.py:load_plugin:143 - 载入插件{name}失败
+2023-06-05 20:54:41 | None | ERROR    | manager.py:load_plugin:143 - 载入插件{name}失败No module named 'a.py'; 'a' is not a package
+2023-06-05 20:54:54 | None | ERROR    | manager.py:load_plugin:143 - 载入插件{name}失败 No module named 'a.py'; 'a' is not a package
+2023-06-05 20:55:52 | None | ERROR    | manager.py:load_plugin:143 - 载入插件{name}失败
+2023-06-05 20:58:10 | None | ERROR    | manager.py:load_plugin:143 - 载入插件a.py失败 No module named 'a.py'; 'a' is not a package
+2023-06-05 20:58:56 | None | ERROR    | manager.py:load_plugin:144 - 载入插件a.py失败 No module named 'a.py'; 'a' is not a package
+2023-06-05 21:00:42 | None | ERROR    | manager.py:load_plugin:144 - 载入插件src.tnxts.test.test_plugin.a.py失败 No module named 'src.tnxts.test.test_plugin.a.py'; 'src.tnxts.test.test_plugin.a' is not a package
+2023-06-05 21:01:03 | None | ERROR    | manager.py:load_plugin:144 - 载入插件a.py失败 No module named 'a.py'; 'a' is not a package
+2023-06-05 21:01:34 | None | ERROR    | manager.py:load_plugin:145 - 载入插件a失败 没有找到插件: a, 请检查你的插件名!
+2023-06-05 21:04:11 | None | SUCCESS    | manager.py:load_plugin:141 - 插件{name}加载成功
+2023-06-05 21:04:34 | None | SUCCESS    | manager.py:load_plugin:141 - 插件{name}加载成功
+2023-06-05 21:05:09 | None | ERROR    | manager.py:load_plugin:144 - 载入插件src.tnxts.test.test_plugin.a失败 No module named 'src.tnxts.test.test_plugin.a'
+2023-06-05 21:05:20 | None | SUCCESS    | manager.py:load_plugin:141 - f插件{name}加载成功
+2023-06-05 21:05:28 | None | SUCCESS    | manager.py:load_plugin:141 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:05:59 | None | SUCCESS    | manager.py:load_plugin:142 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:06:25 | None | SUCCESS    | manager.py:load_plugin:142 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:08:09 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:08:38 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:08:45 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:11:20 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:12:29 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:20:29 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:20:50 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:21:05 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:21:37 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:22:04 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:24:09 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:27:07 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:28:02 | None | ERROR    | manager.py:load_plugin:146 - 载入插件src.tnxts.test.test_plugin.a失败 插件test_plugin已存在，请不要重复引入。如果确定是新插件，请确定您的插件名正确或修改插件名。
+2023-06-05 21:29:58 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:29:58 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:30:27 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:30:27 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:32:07 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:32:07 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:33:24 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:33:24 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:37:42 | None | SUCCESS    | manager.py:load_plugin:143 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:39:45 | None | SUCCESS    | manager.py:load_plugin:146 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:39:46 | None | SUCCESS    | manager.py:load_plugin:146 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 21:48:55 | None | ERROR    | manager.py:load_plugin:152 - 载入插件src.tnxts.test.test_plugin.a失败 _new_plugin() missing 1 required positional argument: 'manager'
+2023-06-05 21:49:50 | None | ERROR    | manager.py:load_plugin:152 - 载入插件src.tnxts.test.test_plugin.a失败 _new_plugin() missing 1 required positional argument: 'module'
+2023-06-05 21:50:50 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 21:50:50 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 23:09:34 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 23:09:34 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 23:09:39 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 23:09:39 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.a加载成功
+2023-06-05 23:10:01 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.b加载成功
+2023-06-05 23:10:01 | None | SUCCESS    | manager.py:load_plugin:149 - 插件src.tnxts.test.test_plugin.a加载成功

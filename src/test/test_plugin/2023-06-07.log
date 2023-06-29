@@ -1,0 +1,5 @@
+2023-06-07 19:58:28 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a.p.q加载成功
+2023-06-07 19:58:28 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a.p加载成功
+2023-06-07 19:58:28 | None | SUCCESS    | manager.py:load_plugin:168 - 插件a加载成功
+2023-06-07 19:58:28 | None | SUCCESS    | manager.py:load_plugin:168 - 插件b加载成功
+2023-06-07 19:58:28 | None | SUCCESS    | manager.py:load_plugin:168 - 插件c加载成功
