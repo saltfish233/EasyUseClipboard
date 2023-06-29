@@ -5,13 +5,13 @@
 
 ### 基础剪贴板功能
 
-![image-20230629215456605](https://storage.tnxts.com/pictures/202306292155750.png)
+![image-20230629215456605](E:/Desktop/%E8%AF%BE%E8%AE%BE/%E5%89%AA%E8%B4%B4%E6%9D%BF/202306292155750.png)
 
 ### 收藏
 
-![image-20230629215613298](https://storage.tnxts.com/pictures/202306292156336.png)
+![image-20230629215613298](E:/Desktop/%E8%AF%BE%E8%AE%BE/%E5%89%AA%E8%B4%B4%E6%9D%BF/202306292156336.png)
 
-![image-20230629215629386](https://storage.tnxts.com/pictures/202306292156423.png)
+![image-20230629215629386](E:/Desktop/%E8%AF%BE%E8%AE%BE/%E5%89%AA%E8%B4%B4%E6%9D%BF/202306292156423.png)
 
 ### 插件系统
 
@@ -19,7 +19,7 @@
 
 #### example
 
-```pyhon
+```python
 from src.tnxts.listener import _clipboard_listener
 from src.tnxts.plugin import PluginMetadata
 
@@ -36,9 +36,9 @@ def print_hello():
 _clipboard_listener.on_copy(print_hello)
 ```
 
-![image-20230629215912437](https://storage.tnxts.com/pictures/202306292159475.png)
+![image-20230629215912437](E:/Desktop/%E8%AF%BE%E8%AE%BE/%E5%89%AA%E8%B4%B4%E6%9D%BF/202306292159475.png)
 
-![image-20230629220402491](https://storage.tnxts.com/pictures/202306292204536.png)
+![image-20230629220402491](E:/Desktop/%E8%AF%BE%E8%AE%BE/%E5%89%AA%E8%B4%B4%E6%9D%BF/202306292204536.png)
 
 ## 技术
 
