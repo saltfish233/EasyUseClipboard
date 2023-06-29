@@ -11,8 +11,6 @@
 
 ### 收藏
 
-![image-20230629215613298](https://raw.githubusercontent.com/saltfish233/EasyUseClipboard/main/EasyUseClipboard/assets/202306292156336.png)
-
 ![image-20230629215629386](https://raw.githubusercontent.com/saltfish233/EasyUseClipboard/main/assets/202306292156423.png)
 
 ### 插件系统
